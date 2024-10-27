@@ -1,6 +1,6 @@
 # BookStore Spring Boot REST API
 
-Task for the Academy to earn bonus points.
+Task for the Academy.
 
 ## Used
 * Java 17
